@@ -1,0 +1,6 @@
+framework module Pods_RSFast_Example {
+  umbrella header "Pods-RSFast_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
